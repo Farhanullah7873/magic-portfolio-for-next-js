@@ -44,7 +44,7 @@ const social = [
   {
     name: "Email",
     icon: "email",
-    link: "mailto:example@gmail.com",
+    link: "Farhanullahwazir7873@gmail.com",
   },
 ];
 
@@ -81,7 +81,7 @@ const about = {
     title: "Introduction",
     description: (
       <>
-        Selene is a Jakarta-based design engineer with a passion for transforming complex challenges
+        Farhan ullah is a Fronted-developer  with a passion for transforming complex challenges
         into simple, elegant design solutions. Her work spans digital interfaces, interactive
         experiences, and the convergence of design and technology.
       </>
@@ -94,7 +94,7 @@ const about = {
       {
         company: "FLY",
         timeframe: "2022 - Present",
-        role: "Senior Design Engineer",
+        role: "Senior Fronted developer",
         achievements: [
           <>
             Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user
@@ -138,8 +138,8 @@ const about = {
     title: "Studies",
     institutions: [
       {
-        name: "University of Jakarta",
-        description: <>Studied software engineering.</>,
+        name: "Gomal University",
+        description: <>Studied Gomal university.</>,
       },
       {
         name: "Build the Future",
